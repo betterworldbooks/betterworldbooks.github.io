@@ -1,0 +1,1 @@
+define(['text!templates/logo.html'],function(template){Vue.component('logo',{template:template,data:function(){return{imageUrl:'/content/images/logos/logo.svg',imageUrlMobile:'/content/images/logos/bookerfly.svg'};}});});

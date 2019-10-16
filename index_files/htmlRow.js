@@ -1,0 +1,1 @@
+define(['text!templates/htmlRow.html'],function(template){Vue.component('htmlrow',{template:template,props:['html-content']});});

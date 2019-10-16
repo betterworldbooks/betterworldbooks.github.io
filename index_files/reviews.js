@@ -1,0 +1,1 @@
+define(['text!templates/reviews.html'],function(template){Vue.component('reviews',{template:template,data:function(){return{localize:bwb.localize.siteSettings};}});});

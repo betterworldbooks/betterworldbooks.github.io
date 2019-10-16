@@ -1,0 +1,1 @@
+define(['text!templates/social.html'],function(template){Vue.component('social',{template:template});});

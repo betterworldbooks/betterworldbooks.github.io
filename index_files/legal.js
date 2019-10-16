@@ -1,0 +1,1 @@
+define(['text!templates/legal.html'],function(template){Vue.component('legal',{template:template});});

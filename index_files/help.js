@@ -1,0 +1,1 @@
+define(['text!templates/help.html'],function(template){Vue.component('help',{template:template});});
